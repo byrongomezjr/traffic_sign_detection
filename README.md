@@ -2,6 +2,17 @@
 
 A deep learning project using Keras to detect traffic signs, specifically focusing on stop signs and traffic lights.
 
+<div id="screenshots" align="center">
+
+![Traffic Sign Detection GUI](assets/launch.png)
+
+---
+(GUI Interface with Image Selection)
+
+![Prediction Example](assets/prediction.png)
+
+</div>
+
 ## Features
 - Real-time traffic sign detection
 - Modern GUI interface
