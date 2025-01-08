@@ -1,6 +1,6 @@
 import cv2 # type: ignore
-import numpy as np
-from keras.utils import img_to_array
+import numpy as np # type: ignore
+from keras.utils import img_to_array # type: ignore
 
 def load_and_preprocess_image(image_path, target_size=(64, 64)):
     """
