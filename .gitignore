@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+model/*.h5
+temp_data/
+data/train/
+data/test/
+*.jpg
+*.png
+*.zip
+
