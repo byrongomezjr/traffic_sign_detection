@@ -4,12 +4,12 @@ A deep learning project using Keras to detect traffic signs, specifically focusi
 
 <div id="screenshots" align="center">
 
-![Traffic Sign Detection GUI](assets/launch.png)
+![Traffic Sign Detection GUI](./assets/launch.png)
 
 ---
 (GUI Interface with Image Selection)
 
-![Prediction Example](assets/prediction.png)
+![Prediction Example](./assets/prediction.png)
 
 </div>
 

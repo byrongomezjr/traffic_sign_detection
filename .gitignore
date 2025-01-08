@@ -10,3 +10,6 @@ data/test/
 *.png
 *.zip
 
+#assets
+!assets/*.png
+!assets/*.jpg
